@@ -15,7 +15,8 @@ make
 ### Running
 
 ```
-./ulam SIZE
+./ulam SIZE OUTFILE
+./ulam 199 img.ppm
 ```
 
 SIZE should be an odd positive integer.
